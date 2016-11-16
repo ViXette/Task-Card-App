@@ -1,0 +1,11 @@
+.container { padding: 3rem 0 0; }
+
+.row { margin: 0 0 1.5rem 0; }
+
+form { text-align: center; }
+
+.btn { background-color: #cd2a19; border-color: #cd2a19; margin: 0 0 0 1rem; }
+
+.form-control:focus { border-color: #cd2a19; }
+
+h5 { color: #ccc; text-align: center; margin: 3rem 0 0 0; }
